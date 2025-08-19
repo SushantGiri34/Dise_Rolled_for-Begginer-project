@@ -26,3 +26,8 @@ You can type `exit` to quit the game.
    ```bash
    git clone https://github.com/your-username/dice-roller.git
    cd dice-roller
+
+
+   python dise_role.py
+
+
