@@ -27,7 +27,21 @@ You can type `exit` to quit the game.
    git clone https://github.com/your-username/dice-roller.git
    cd dice-roller
 
-
+2. run the script:
    python dise_role.py
+
+
+
+
+🎲 Welcome to the Dice Rolling Simulator!
+
+Press Enter to roll the dice or type 'exit' to quit: 
+🎯 You rolled a 4!
+
+Press Enter to roll the dice or type 'exit' to quit: 
+🎯 You rolled a 1!
+
+Press Enter to roll the dice or type 'exit' to quit: exit
+Thanks for playing! 🎉
 
 
